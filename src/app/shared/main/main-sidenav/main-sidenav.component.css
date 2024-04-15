@@ -1,0 +1,10 @@
+mat-list {
+    display: block;
+  }
+  
+mat-list-item {
+    width: 90%;
+    margin: 0.5rem;
+    padding: 1rem;
+    border: 1px solid black;
+  }
